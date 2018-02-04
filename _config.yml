@@ -2,13 +2,13 @@
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://seobew.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         seobew
+  url:          https://seobew.github.io
+  email:        seobew@gmail.com
 
 # Build settings
 markdown:       kramdown
