@@ -78,7 +78,7 @@ http://jekyllthemes.org/ 에서 테마를 하나 고르고, 자신의 깃헙에 
 
 * _site : 컴파일된 블로그 사이트 파일들이 있는 곳이다.
 
-* _includes : partial 파일들이 있는 곳 ({% include something.html %} 처럼!)
+* _includes : partial 파일들이 있는 곳, include를 이용한다.
 
 > front-matter라는 것이 있는데, 지킬에게 어떤 파일을 처리할 방법을 알려주는 일종의 메타데이터이다. 그리고 처리할 파일은 가장 상위에 있어야하며 아래 같이 fron matter 블록으로 시작되는 파일만 처리한다. 
 >
