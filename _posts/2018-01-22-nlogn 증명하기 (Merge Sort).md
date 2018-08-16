@@ -1,4 +1,8 @@
-## nlogn 증명하기 (Merge Sort)
+---
+layout: post
+title: "nlogn proof"
+author: "seobew"
+---
 
 ### Merge Sort 간단 리뷰
 

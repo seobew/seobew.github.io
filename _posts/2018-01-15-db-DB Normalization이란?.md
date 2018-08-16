@@ -1,6 +1,8 @@
-## DB Normalization이란?
-
-
+---
+layout: post
+title: "DB Normalization"
+author: "seobew"
+---
 
 ### 정의
 
