@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://seobew.github.io/biztoolbox/sitemap.xml

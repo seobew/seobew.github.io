@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-04-27T19:27:06.424Z",
+  "items": [
+    {
+      "slug": "annual-leave-under-1-year",
+      "title": "연차 1년 미만 발생 기준: 입사일 예시로 보는 가장 쉬운 정리",
+      "description": "연차 1년 미만(입사 초기) 발생 기준을 케이스 예시로 정리하고, 촉진/소멸 등 예외는 출처 기반으로 안내합니다.",
+      "category": "leave",
+      "type": "guide",
+      "publishedAt": "2026-03-18",
+      "updatedAt": "2026-04-05",
+      "keywords": [
+        "연차 1년 미만",
+        "연차 발생 기준",
+        "입사일 연차"
+      ]
+    },
+    {
+      "slug": "holiday-work-pay-rate",
+      "title": "휴일근로수당 1.5배/2배는 언제? 가장 흔한 혼동 6가지",
+      "description": "휴일근로수당 가산(1.5배/2배) 관련해 자주 헷갈리는 포인트를 FAQ 형식으로 정리합니다.",
+      "category": "labor-pay",
+      "type": "faq",
+      "publishedAt": "2026-03-18",
+      "updatedAt": "2026-04-05",
+      "keywords": [
+        "휴일근로수당",
+        "휴일수당 2배",
+        "휴일근로 1.5배"
+      ]
+    },
+    {
+      "slug": "night-work-hours",
+      "title": "야간근로 시간 기준(22시~06시) 정리 + 예시 3개",
+      "description": "야간근로 시간 기준(22시~06시)과 흔한 혼동 포인트를 예시로 정리합니다.",
+      "category": "labor-pay",
+      "type": "guide",
+      "publishedAt": "2026-03-18",
+      "updatedAt": "2026-04-05",
+      "keywords": [
+        "야간근로 시간",
+        "22시 6시",
+        "야간수당"
+      ]
+    },
+    {
+      "slug": "overtime-pay-rate",
+      "title": "연장근로수당 1.5배 계산: 기준과 예시로 이해하기",
+      "description": "연장근로수당(가산) 계산을 단순 예시로 정리하고, 흔히 헷갈리는 ‘기준시간’ 포인트를 설명합니다.",
+      "category": "labor-pay",
+      "type": "guide",
+      "publishedAt": "2026-03-18",
+      "updatedAt": "2026-04-05",
+      "keywords": [
+        "연장근로수당",
+        "1.5배",
+        "연장수당 계산"
+      ]
+    },
+    {
+      "slug": "paystub-required-fields",
+      "title": "임금명세서 필수 항목 체크리스트(샘플 포함): 빠진 항목 0개 만들기",
+      "description": "임금명세서에서 자주 누락되는 항목을 체크리스트로 정리하고, 확인용 샘플 구성도 제공합니다.",
+      "category": "wage",
+      "type": "checklist",
+      "publishedAt": "2026-03-18",
+      "updatedAt": "2026-03-25",
+      "keywords": [
+        "임금명세서 필수 항목",
+        "급여명세서",
+        "임금명세서 체크리스트"
+      ]
+    },
+    {
+      "slug": "severance-pay-under-1-year",
+      "title": "퇴직금 1년 미만이면 못 받나요? 자주 묻는 질문 10개",
+      "description": "퇴직금 ‘1년’ 기준과 자주 묻는 질문(중간정산/계속근로/재입사 등)을 FAQ로 정리합니다.",
+      "category": "severance",
+      "type": "faq",
+      "publishedAt": "2026-03-18",
+      "updatedAt": "2026-04-05",
+      "keywords": [
+        "퇴직금 1년 미만",
+        "퇴직금 기준",
+        "계속근로기간",
+        "퇴직금 계산기"
+      ]
+    },
+    {
+      "slug": "weekly-holiday-pay-absence",
+      "title": "결근/지각/조퇴가 주휴수당에 미치는 영향: 자주 묻는 질문 8개",
+      "description": "결근/지각/조퇴 등으로 주휴수당이 어떻게 달라질 수 있는지, 흔한 질문을 FAQ 형태로 정리합니다.",
+      "category": "labor-pay",
+      "type": "faq",
+      "publishedAt": "2026-03-18",
+      "updatedAt": "2026-04-05",
+      "keywords": [
+        "결근 주휴수당",
+        "지각 주휴수당",
+        "조퇴 주휴수당",
+        "주휴수당 FAQ"
+      ]
+    },
+    {
+      "slug": "weekly-holiday-pay-eligibility",
+      "title": "주휴수당 지급조건(주 15시간) 한 장 요약: 대상/예외/체크리스트",
+      "description": "주휴수당 지급조건(주 15시간 기준)을 빠르게 확인하고, 흔한 예외(결근/근무일 미충족 등) 체크리스트로 정리합니다.",
+      "category": "labor-pay",
+      "type": "guide",
+      "publishedAt": "2026-03-18",
+      "updatedAt": "2026-03-25",
+      "keywords": [
+        "주휴수당",
+        "주휴수당 지급조건",
+        "주 15시간",
+        "주휴수당 계산기"
+      ]
+    },
+    {
+      "slug": "weekly-holiday-pay-last-week",
+      "title": "퇴사(마지막 주) 주휴수당은 어떻게 되나? 케이스 4가지로 정리",
+      "description": "퇴사/마지막 근무주에 주휴수당이 어떻게 달라질 수 있는지, 케이스별로 체크포인트를 정리합니다.",
+      "category": "labor-pay",
+      "type": "guide",
+      "publishedAt": "2026-03-18",
+      "updatedAt": "2026-04-05",
+      "keywords": [
+        "퇴사 주휴수당",
+        "마지막 주 주휴수당",
+        "주휴수당 지급"
+      ]
+    },
+    {
+      "slug": "weekly-holiday-pay-part-time",
+      "title": "단시간 근로자 주휴수당 계산 예시 3가지(표로 정리)",
+      "description": "단시간/파트타임 근로자의 주휴수당을 ‘주 근무시간’ 기준으로 단순 예시 3가지로 정리합니다.",
+      "category": "labor-pay",
+      "type": "guide",
+      "publishedAt": "2026-03-18",
+      "updatedAt": "2026-04-05",
+      "keywords": [
+        "단시간 근로자 주휴수당",
+        "파트타임 주휴수당",
+        "주휴수당 계산 예시"
+      ]
+    },
+    {
+      "slug": "juhyu-allowance-guide",
+      "title": "주휴수당 계산 방법: 공식, 조건, 자주 하는 실수",
+      "description": "주휴수당의 기본 공식(주 근무시간/40×8)과 주 15시간 기준 등 핵심 체크포인트를 정리합니다.",
+      "category": "labor-pay",
+      "type": "guide",
+      "publishedAt": "2026-03-17",
+      "updatedAt": "2026-03-25",
+      "keywords": [
+        "주휴수당",
+        "주휴수당 계산기",
+        "주 15시간"
+      ]
+    },
+    {
+      "slug": "severance-pay-checklist",
+      "title": "퇴직금 계산 전 체크리스트: 평균임금 준비자료 5가지",
+      "description": "퇴직금(평균임금 방식) 계산 전에 준비해야 할 자료와 흔한 누락 포인트를 체크리스트로 정리합니다.",
+      "category": "severance",
+      "type": "checklist",
+      "publishedAt": "2026-03-17",
+      "updatedAt": "2026-04-05",
+      "keywords": [
+        "퇴직금",
+        "평균임금",
+        "퇴직금 계산기"
+      ]
+    }
+  ]
+}
